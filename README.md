@@ -38,4 +38,4 @@ The launch version is meant to be used with an Arduino Uno R2 and a ESP-01 as it
 ### Version 2 (V2)
 The second version is meant to be used with a Wemos D1 R1 board. This version doesn't need a slave board because it already has a native Wifi connection.
 
-* More details on the code itself
+*More details on the code itself
