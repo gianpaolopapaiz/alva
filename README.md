@@ -18,7 +18,7 @@ https://play.google.com/store/apps/details?id=com.br.protto.alva_app&hl=pt_BR&gl
 ## Main Components
 
 ### Electronic
-- Arduino Uno R2 (Main board)
+- Arduino Uno R2 (or Wemos D1 R1 for V2)
 - ESP-01 (Wifi Board)
 - DS3231 (Clock)
 - Display 16x2 + i2c (Display)
