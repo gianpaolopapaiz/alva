@@ -1,7 +1,7 @@
 # ALVA by PROTTO
 
 ## Introduction
-Alva is a maker kit with the focus of learning electronics and coding. It is suposed to be a first contact of any kind of perso with the maker world. When is assembled, becomes a technological lamp with features:
+Alva is a maker kit developed in 2019 with the focus of learning electronics and coding. It is suposed to be a first contact of any kind of perso with the maker world. When is assembled, becomes a technological lamp with features:
 
 - on/off touchless
 - timer
